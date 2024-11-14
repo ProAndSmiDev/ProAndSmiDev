@@ -9,7 +9,19 @@ I need to give you some advices here:
 - secondly, if you need some specifical techologies as frameworks, tools or anything else - you can read about tools [here](#-ide-and-tools), about browsering [here](#-browsering), about package managers [here](#-package-managers), about OS [here](#-os), about frontend knowledges [here](#-frontend), about backend knowledges [here](#-backend) and just to see my activity [here](#-activity) 
 - and finally, if you see that i can solve your problem you can tell me by my contacts [here](#-contacts)
 
-### About myself:
+### 🧑 About myself:
+My name is Andrey Smirnov. I position myself as a Frontend developer. At the moment, it will not be difficult for me to make the layout of any site. 
+
+At the moment, I dream of not covering all the requirements of the business, but at least being guided by them. To do this, I develop my skills in both backend and frontend development in my free time. My dream is also to become a full-fledged full stack developer with knowledge of relevant technologies.
+
+In my free time from work, I enjoy life - I like to walk or go to the cinema/swimming pool. And I always try to find time to develop my skills from the working mode completely so as not to burn out.
+
+Regarding my experience:
+- 2 years of commercial experience at SB-Vector (as a web programmer);
+- 2 years of commercial experience in the Muz Cult company (as an HTML Coder)
+- 4+ commercial experience as a frontend developer at TK-Project
+
+You can contact me if you need to make up a layout from figma to html, you need layout tips, as well as any help with it. At the moment, my services seem scarce, but I will expand them over time - so stay tuned :)
 
 ### 🔨 Technologies and knowledges:
 
