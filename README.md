@@ -6,7 +6,7 @@ Hello everyone. This is AndSmi(aka. ProAndSmiDev)'s resume! I am glad to see you
 
 I need to give you some advices here:
 - firstly, if you need a specialist as i am, you can read about my technologies [here](#-technologies-and-knowledges)
-- secondly, if you need some specifical techologies as frameworks, tools or anything else - you can read about my tools [here](#-ide-and-tools)
+- secondly, if you need some specifical techologies as frameworks, tools or anything else - you can read about tools [here](#-ide-and-tools), about browsering [here](#-browsering), about package managers [here](#-package-managers), about OS [here](#-os), about frontend knowledges [here](#-frontend), about backend knowledges [here](#-backend) and just to see my activity [here](#-activity) 
 - and finally, if you see that i can solve your problem you can tell me by my contacts [here](#-contacts)
 
 ### About myself:
