@@ -85,11 +85,6 @@ You can contact me if you need to make up a layout from figma to html, you need 
 
 #### Completed:
 
-
-### 📊 Activity:
-
-[![ProAndSmiDev github stats](https://github-readme-stats.vercel.app/api?username=ProAndSmiDev&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/proandsmidev)
-
 ### 💬 Contacts:
 
 <a href="mailto:developer@andsmi.ru"><img src="https://img.shields.io/badge/-email-090909?style=for-the-badge&logo=email&logoColor=27A0D9" alt="email"></a>
