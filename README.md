@@ -83,7 +83,7 @@ You can contact me if you need to make up a layout from figma to html, you need 
 
 #### Completed:
 
-### Activity:
+### 📊 Activity:
 - will be soon
 
 ### 💬 Contacts:
