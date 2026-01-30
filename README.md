@@ -24,9 +24,7 @@ Regarding my experience:
 You can contact me if you need to make up a layout from figma to html, you need layout tips, as well as any help with it. At the moment, my services seem scarce, but I will expand them over time - so stay tuned :)
 
 ### 🔨 Technologies and knowledges:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProAndSmiDev&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/proandsmidev)
-
+- will be soon
 ### 🛠 IDE and Tools:
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -84,6 +82,9 @@ You can contact me if you need to make up a layout from figma to html, you need 
 ![PostMan](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 #### Completed:
+
+### Activity:
+- will be soon
 
 ### 💬 Contacts:
 
